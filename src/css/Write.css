@@ -1,0 +1,30 @@
+.content{
+    margin: 50px;
+}
+
+.write-form{
+    width: 1200px;
+    text-align: center;
+}
+.group{
+    width: 100%;
+}
+label{
+    font-size: larger;
+}
+.email{
+    width: 100%;
+    margin: 10px;
+    height: 30px;
+}
+textarea{
+    width: 100%;
+    margin: 10px;
+}
+.write-done{
+    background-color: aqua;
+}
+.cancel{
+    background-color: gray;
+    color: white;
+}
